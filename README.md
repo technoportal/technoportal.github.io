@@ -44,7 +44,35 @@ TechnoPortal content is by default publicly accessible and open to any user. For
  - Private access reserved for a selection of contributors declared by the depositary of an ontology as well as curators and administrators. This access therefore requires a connection via a user account.
 
 
+## Purpose and Functionalities
 
+The TechnoPortal ontology repository mainly allows:
+
+ - the discovery, browsing, search, viewing or downloading of ontologies and other content by users;
+
+ - the publication of ontologies or other content by contributors;
+
+ - management of content and the repository by curators and administrators.
+
+
+### Discovery, consultation, search, viewing or downloading of ontologies and other content by users
+
+TechnoPortal provides ontologies published by contributors which can be accessed for download, or via the web application or the API. 
+
+Consultation of the ontologies and metadata made available for public access on TechnoPortal or their downloading does not require any connection or prior registration by users. Consulting and downloading private ontologies requires authentication. Not creating a user account does not affect consultation of publicly accessible resources on the repository. All users are required to respect the user license specific to each ontology.
+
+Any user can participate in the quality control of TechnoPortal by reporting, to the contact email address, in particular content not intended to appear there (illicit or contrary to the T&Cs).
+
+### Publication of ontologies or other content by contributors
+
+Any contributor can contribute to TechnoPortal content, among other things, by publishing ontologies and documenting them with metadata. Any contributor can also modify or update content to which he or she has the rights (i.e., generally content previously posted). Removing content generally requires contacting an administrator.
+
+To become a contributor, a user must register on TechnoPortal by creating a personal account. For more details on user accounts, see the Privacy section of the T&Cs. After automatic account validation, the various features are immediately available. Administration rights to ontologies other than those deposited by a contributor must be assigned by another contributor who is an administrator of the ontology concerned or by an TechnoPortal curator.
+
+
+### Content and repository management by curators and administrators
+
+Curators and administrators are associated users or members of the TechnoPortal management and maintenance team. They are responsible as much as possible for controlling the quality and consistency of the repository’s content. The role of curator or administrator must be assigned by another curator or administrator from the management team.
 
 
 
