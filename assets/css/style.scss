@@ -1,6 +1,8 @@
 ---
 ---
 
+$section-headings-color: #9C4E81 !important;
+
 @import "{{ site.theme }}";
 .page-header {
   color: #F1F6FA;
@@ -21,14 +23,3 @@
   }
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: normal;
-  color: #9C4E81;
-}
