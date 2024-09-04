@@ -37,22 +37,22 @@ Using TechnoPortal is free.
 
 TechnoPortal content is by default publicly accessible and open to any user. For ontologies and their metadata, there are nevertheless three levels of access rights:
 
- - Public access with download of the source file (and versions) possible. The default mode.
+- Public access with download of the source file (and versions) possible. The default mode.
 
- - Public access without downloading the source file. This mode must be explicitly requested to an administrator.
+- Public access without downloading the source file. This mode must be explicitly requested to an administrator.
 
- - Private access reserved for a selection of contributors declared by the depositary of an ontology as well as curators and administrators. This access therefore requires a connection via a user account.
+- Private access reserved for a selection of contributors declared by the depositary of an ontology as well as curators and administrators. This access therefore requires a connection via a user account.
 
 
 ## Purpose and Functionalities
 
 The TechnoPortal ontology repository mainly allows:
 
- - the discovery, browsing, search, viewing or downloading of ontologies and other content by users;
+- the discovery, browsing, search, viewing or downloading of ontologies and other content by users;
 
- - the publication of ontologies or other content by contributors;
+- the publication of ontologies or other content by contributors;
 
- - management of content and the repository by curators and administrators.
+- management of content and the repository by curators and administrators.
 
 
 ### Discovery, consultation, search, viewing or downloading of ontologies and other content by users
@@ -132,7 +132,7 @@ The TechnoPortal management and maintenance team does not carry out a priori con
 
 TechnoPortal reserves the right to delete or make inaccessible, without notice:
 
- - Contributions unrelated to the activity of the portal (see Editorial line), published for the purpose of hindering the proper functioning, advertising or promotion, propaganda or proselytism and any contribution contravening the laws and regulations in force;
+- Contributions unrelated to the activity of the portal (see Editorial line), published for the purpose of hindering the proper functioning, advertising or promotion, propaganda or proselytism and any contribution contravening the laws and regulations in force;
 
 - The personal account of a contributor, curator or administrator and to refuse that certain people have access to the portal in the event of a violation of the T&Cs.
 
@@ -148,3 +148,44 @@ These T&Cs may be amended at any time, without notice, depending on modification
 
 Contributors will be asked to re-accept the conditions of use to continue using TechnoPortal, when changes to the T&Cs are applied. 
 
+
+## Privacy policy
+
+### Personal data of contributors
+
+The personal data collected by TechnoPortal when creating or having an account are:
+
+- First name, last name, email address;
+
+- ORCID identifier;
+
+- GitHub Login;
+
+- Whether or not to subscribe to the users’ mailing list.
+
+Creating an account results in the creation of a 'login' and an API key allowing to use TechnoPortal’s API (with the same rights associated with the user account). The creation of an account is associated with registration on the TechnoPortal user mailing list unless the contributor wishes not to be. A contributor can access and modify their information via a dedicated “Account Settings” page. This page is not public and cannot be referenced or identified by external search engines.
+
+The TechnoPortal management and maintenance team undertakes to take all necessary measures to guarantee the security and confidentiality of the information of contributors holding an account. This information is never communicated to third parties, except in cases provided for by law. The purpose of these data is the implementation and proper functioning of TechnoPortal as well as the processing of requests made via the assistance form. The main purpose of contributor accounts is to allow the posting of ontologies (or content) or access to ontologies (or content) for restricted use. This purpose is linked to the main mission of sharing TechnoPortal ontologies. Apart from the software, the recipients of personal data are the members of the TechnoPortal management and maintenance team who contribute to the implementation of TechnoPortal and the services offered.
+
+TechnoPortal may also record and collect information relating to the use of the services by users in its server-side logs. This information is in no way used to track the behavior of a specific user. However, they can be used, in batches, for monitoring and improving the service.
+
+All personal data are stored on TechnoPortal servers. The retention period of personal data is:
+
+- Less than a year for data collected in visitor logs.
+
+- For life for information in a contributor's account as long as the account is active. A contributor can nevertheless request the deletion of his account at any time.
+
+
+You can exercise these rights by contacting the TechnoPortal management and maintenance team (with the exception of the right to lodge a complaint which must be exercised directly with a supervisory authority) by email at the contact email address.
+
+### Cookies used by the web application
+
+TechnoPortal places audience measurement cookies (number of visits, pages viewed), session identification and local language cookies on users' web browsers. A final cookie is used, once connected to TechnoPortal, to store a contributor's APIkey. The session cookie lasts a maximum of one day.
+
+For audience measurements, TechnoPortal uses Google Analytics 4 to collect and aggregate this data for the purposes of analysis and monitoring of the platform. This information is in no way used to track the behavior of a specific user. However, they can be used, in batches, for monitoring and improving the service. Google Analytics cookies are:
+
+- _ga: This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It typically expires after 2 years.
+
+- _gid: This cookie is used to distinguish users and is set by Google Analytics to store and update a unique value for each page visited. It typically expires after 24 hours.
+
+- _gat: This cookie is used to throttle request rate and limits the collection of data on high-traffic sites. It expires after 1 minute.
