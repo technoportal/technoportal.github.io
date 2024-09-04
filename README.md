@@ -1,6 +1,6 @@
 # General Introduction
 
-TechnoPortal, accessible at https://technoportal.hevs.ch/, is a web portal of ontologies and vocabularies dedicated to the technology sciences domain. It provides a web application as well as an application programming interface (API) and a SPARQL endpoint. It relies on the generic and open technology OntoPortal (https://ontoportal.org). The ontology repository allows hosting, searching, versioning, visualization, exploration, commenting and proposing on ontologies; it also includes a semantic annotation service for text (Annotator) and an ontology recommendation service (Recommender) as well as a catalog of alignments between ontologies (Mapping). All within an infrastructure fully compatible with the semantic web.
+TechnoPortal, accessible at <https://technoportal.hevs.ch/>, is a web portal of ontologies and vocabularies dedicated to the technology sciences domain. It provides a web application as well as an application programming interface (API) and a SPARQL endpoint. It relies on the generic and open technology OntoPortal (<https://ontoportal.org>). The ontology repository allows hosting, searching, versioning, visualization, exploration, commenting and proposing on ontologies; it also includes a semantic annotation service for text (Annotator) and an ontology recommendation service (Recommender) as well as a catalog of alignments between ontologies (Mapping). All within an infrastructure fully compatible with the semantic web.
 
 Any use of the Technoportal web application, or its API, is subject to compliance with these Terms and Conditions (T&C).
 
@@ -13,9 +13,9 @@ Any use of the Technoportal web application, or its API, is subject to complianc
 
 **Ontology:** Term used to cover all types of semantic resources or semantic artefacts hosted and served on TechnoPortal: vocabulary, terminology, thesaurus, taxonomy, etc.
 
-**Web application:** All web pages consumed on the client side and produced by the TechnoPortal software on the server side, to carry out the services that the portal offers and implements. This concerns all web pages accessible from the address:  https://technoportal.hevs.ch/
+**Web application:** All web pages consumed on the client side and produced by the TechnoPortal software on the server side, to carry out the services that the portal offers and implements. This concerns all web pages accessible from the address:  <https://technoportal.hevs.ch/>
 
-**Programmatic interface (API):** All TechnoPortal functionalities and services accessible via a structured and clearly specified interface allowing a computer program to automatically interact with the software. This concerns all web service calls invoked from the addresses:  https://technoportal.hevs.ch/ and https://data.technoportal.hevs.ch/
+**Programmatic interface (API):** All TechnoPortal functionalities and services accessible via a structured and clearly specified interface allowing a computer program to automatically interact with the software. This concerns all web service calls invoked from the addresses:  <https://technoportal.hevs.ch/> and <https://data.technoportal.hevs.ch/>
 
 **User:** Any natural or legal person who accesses the TechnoPortal ontology repository, directly or via a computer program, in order to consult, contribute or download content for reuse, including for purposes other than those for which this content was produced.
 
