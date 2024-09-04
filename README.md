@@ -189,3 +189,22 @@ For audience measurements, TechnoPortal uses Google Analytics 4 to collect and a
 - _gid: This cookie is used to distinguish users and is set by Google Analytics to store and update a unique value for each page visited. It typically expires after 24 hours.
 
 - _gat: This cookie is used to throttle request rate and limits the collection of data on high-traffic sites. It expires after 1 minute.
+
+## Legal Notice
+
+### Identification
+TechnoPortal <https://technoportal.hevs.ch/>
+
+### Contact
+For any questions relating to these T&Cs, you can write to us at the following email address:
+<technoportal-support@hevs.ch>
+
+### Data hosting
+
+TechnoPortal servers and data are hosted on the HES-SO Valais-Wallis premises, in Switzerland.
+
+Unless otherwise stated, all TechnoPortal content is under Open License, TechnoPortal source code is under BSD-2 license.
+
+The TechnoPortal software is based on the generic OntoPortal software (<https://github.com/ontoportal>). TechnoPortal software is publicly available on GitHub:
+
+<https://github.com/technoportal>
