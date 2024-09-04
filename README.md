@@ -29,3 +29,23 @@ Any use of the Technoportal web application, or its API, is subject to complianc
 **Administrative authority:** Any public or private person responsible for a public service mission.
 
 **Reuse:** Use by any natural or legal person of TechnoPortal ontologies or other content including for purposes other than those for which they were produced.
+
+
+## Access rights
+
+Using TechnoPortal is free.
+
+TechnoPortal content is by default publicly accessible and open to any user. For ontologies and their metadata, there are nevertheless three levels of access rights:
+
+ - Public access with download of the source file (and versions) possible. The default mode.
+
+ - Public access without downloading the source file. This mode must be explicitly requested to an administrator.
+
+ - Private access reserved for a selection of contributors declared by the depositary of an ontology as well as curators and administrators. This access therefore requires a connection via a user account.
+
+
+
+
+
+
+
