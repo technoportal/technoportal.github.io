@@ -113,3 +113,38 @@ TechnoPortal’s contact email address to reach the management and maintenance t
 
 The contact email address allows users to contact TechnoPortal administrators for help or information on using the repository or its content. It is not intended to receive requests relating to the individual situation of a user in their relations with an administrative authority. It is also not a direct way to contact a contributor; To do this, users can turn to the contact information provided in the ontology metadata.
 
+
+## Commitments and responsibilities
+
+### Quality of service and service offered
+
+Subject to the provisions of the following paragraph, the TechnoPortal management and maintenance team strives to guarantee the availability and robustness of TechnoPortal services. This applies to all TechnoPortal software, whether accessed through its web application or its API.
+
+However, the TechnoPortal management and maintenance team also reserves the right to develop, modify or suspend, without notice, the TechnoPortal repository services for maintenance or for any other reason that it deems necessary. The unavailability of TechnoPortal does not give rise to any compensation and cannot give rise to any prosecution.
+
+TechnoPortal undertakes to take all necessary precautions to preserve the integrity of the ontologies made available, and in particular to prevent their content from being distorted or subject to a specific interpretation. TechnoPortal undertakes to follow, as far as possible, the standards of the semantic web community and in particular the W3C Recommendations.
+
+For the sole purpose of guaranteeing a better service to users, and without ever distorting its meaning or value, curators reserve the possibility of modifying the metadata associated with an ontology.
+
+### Responsibilities of TechnoPortal
+
+The TechnoPortal management and maintenance team does not carry out a priori control over the content of contributors. As soon as TechnoPortal becomes aware of illegal content or content that does not comply with the T&Cs, TechnoPortal administrators act quickly to remove this content or make access to it impossible. A “Send Feedback” procedure is set up on TechnoPortal and can be used to report content that does not comply with the T&Cs.
+
+TechnoPortal reserves the right to delete or make inaccessible, without notice:
+
+ - Contributions unrelated to the activity of the portal (see Editorial line), published for the purpose of hindering the proper functioning, advertising or promotion, propaganda or proselytism and any contribution contravening the laws and regulations in force;
+
+- The personal account of a contributor, curator or administrator and to refuse that certain people have access to the portal in the event of a violation of the T&Cs.
+
+### Textual and graphic content
+
+The textual content (documentation, explanatory texts, etc.) and graphic content (logos, graphic charter, iconographic representations, etc.) offered by TechnoPortal are the property of the TechnoPortal management and maintenance team. Like the rest of the portal code, they are accessible under Open License.
+
+### Evolution of the Terms & Conditions
+
+These general Terms & Conditions (T&Cs) from their first version in August 2024, must be validated when creating a user account.
+
+These T&Cs may be amended at any time, without notice, depending on modifications made to TechnoPortal, changes in legislation or for any other reason deemed necessary by the governance of the TechnoPortal repository.
+
+Contributors will be asked to re-accept the conditions of use to continue using TechnoPortal, when changes to the T&Cs are applied. 
+
