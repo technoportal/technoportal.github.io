@@ -1,7 +1,5 @@
 # Terms & Conditions
-
-<details>
-<summary><h2>General Introduction</h2></summary>
+## General Introduction
 
 TechnoPortal, accessible at <https://technoportal.hevs.ch/>, is a web portal of ontologies and vocabularies dedicated to the technology sciences domain. It provides a web application as well as an application programming interface (API) and a SPARQL endpoint. It relies on the generic and open technology OntoPortal (<https://ontoportal.org>). The ontology repository allows hosting, searching, versioning, visualization, exploration, commenting and proposing on ontologies; it also includes a semantic annotation service for text (Annotator) and an ontology recommendation service (Recommender) as well as a catalog of alignments between ontologies (Mapping). All within an infrastructure fully compatible with the semantic web.
 
@@ -31,7 +29,6 @@ Any use of the Technoportal web application, or its API, is subject to complianc
 **Administrative authority:** Any public or private person responsible for a public service mission.
 
 **Reuse:** Use by any natural or legal person of TechnoPortal ontologies or other content including for purposes other than those for which they were produced.
-</details>
 
 ## Access rights
 
@@ -44,7 +41,6 @@ TechnoPortal content is by default publicly accessible and open to any user. For
 - Public access without downloading the source file. This mode must be explicitly requested to an administrator.
 
 - Private access reserved for a selection of contributors declared by the depositary of an ontology as well as curators and administrators. This access therefore requires a connection via a user account.
-
 
 ## Purpose and Functionalities
 
