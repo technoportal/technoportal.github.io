@@ -75,5 +75,41 @@ To become a contributor, a user must register on TechnoPortal by creating a pers
 Curators and administrators are associated users or members of the TechnoPortal management and maintenance team. They are responsible as much as possible for controlling the quality and consistency of the repository’s content. The role of curator or administrator must be assigned by another curator or administrator from the management team.
 
 
+## Code of Conduct and User Responsibilities
 
+TechnoPortal is not intended to disseminate advertising data, promotion of private interests, contrary to public order or, more generally, illicit. TechnoPortal administrators may, if necessary, without notice, delete or make access to such data or content impossible.
+
+TechnoPortal encourages contributors to make the content they publish reliable and documented.
+
+### Editorial line
+
+TechnoPortal's editorial line concerns content related, in the broad sense, to the fields of technology sciences. Generic ontologies or semantic web vocabularies can also be hosted for the sake of consistency and completeness of the service to users. Curators may not agree to host and serve ontologies that are not in the editorial line of TechnoPortal. Users and contributors are encouraged to also turn to other actors and providers of the OntoPortal Alliance (<https://ontoportal.org>) who can provide similar ontology repositories with other editorial lines.
+
+### Personal data 
+
+Ontologies and other content hosted on TechnoPortal are not intended to contain personal data. Only registered accounts contain personal data (See Privacy).
+
+### Data covered by intellectual property rights
+
+Contributors are solely responsible for the ontologies or content they publish on TechnoPortal.
+
+When a contributor publishes an ontology including intellectual property rights that may hinder its reuse, he/she must mention these rights in the metadata of the ontology. It must then indicate the identity of the natural or legal person holding these rights or, if this is not known, the identity of the person from whom the ontology concerned was obtained.
+
+When contributors submit an ontology, it is preferable that they themselves are authors, developers or contributors to this ontology. Otherwise, TechnoPortal's curators may not agree to host and serve an ontology deposited by a non-author and for which TechnoPortal has received a removal request from an original author or developer of the ontology concerned.
+
+### Licenses
+
+We distinguish the license which applies to a hosted ontology from the license which applies to the metadata of this ontology described in the TechnoPortal catalog entry.
+
+The license of the ontology is indicated, as much as possible, by the contributor in the metadata. It must be in accordance with the level of accessibility chosen by the contributor for this ontology. In the absence of an explicitly specified license, an ontology publicly accessible on TechnoPortal is considered by default as public and reusable and distributed under Open License (equivalent to CC-BY).
+
+The license that applies to the ontology metadata (publicly and privately accessible) described in the TechnoPortal catalog entry is an Open License (equivalent to CC-BY). In the case of private ontologies, TechnoPortal undertakes not to disseminate this information until the access right of the ontology is changed to “public”.
+
+Ontologies containing non-public information are disseminated, where applicable, only after agreement from the third party rights holder or co-rights holder.
+
+### Contact email address
+
+TechnoPortal’s contact email address to reach the management and maintenance team is <technoportal-support@hevs.ch>
+
+The contact email address allows users to contact TechnoPortal administrators for help or information on using the repository or its content. It is not intended to receive requests relating to the individual situation of a user in their relations with an administrative authority. It is also not a direct way to contact a contributor; To do this, users can turn to the contact information provided in the ontology metadata.
 
