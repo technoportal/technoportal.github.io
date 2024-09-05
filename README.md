@@ -147,7 +147,7 @@ These T&Cs may be amended at any time, without notice, depending on modification
 Contributors will be asked to re-accept the conditions of use to continue using TechnoPortal, when changes to the T&Cs are applied. 
 
 
-## Privacy policy
+## Privacy policy 
 
 ### Personal data of contributors
 
