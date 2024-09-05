@@ -203,6 +203,4 @@ TechnoPortal servers and data are hosted on the HES-SO Valais-Wallis premises, i
 
 Unless otherwise stated, all TechnoPortal content is under Open License, TechnoPortal source code is under BSD-2 license.
 
-The TechnoPortal software is based on the generic OntoPortal software (<https://github.com/ontoportal>). TechnoPortal software is publicly available on GitHub:
-
-<https://github.com/technoportal>
+The TechnoPortal software is based on the generic OntoPortal software (<https://github.com/ontoportal>). TechnoPortal software is publicly available on GitHub: <https://github.com/technoportal>
