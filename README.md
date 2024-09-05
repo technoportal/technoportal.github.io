@@ -1,3 +1,4 @@
+# Terms & Conditions
 ## General Introduction
 
 TechnoPortal, accessible at <https://technoportal.hevs.ch/>, is a web portal of ontologies and vocabularies dedicated to the technology sciences domain. It provides a web application as well as an application programming interface (API) and a SPARQL endpoint. It relies on the generic and open technology OntoPortal (<https://ontoportal.org>). The ontology repository allows hosting, searching, versioning, visualization, exploration, commenting and proposing on ontologies; it also includes a semantic annotation service for text (Annotator) and an ontology recommendation service (Recommender) as well as a catalog of alignments between ontologies (Mapping). All within an infrastructure fully compatible with the semantic web.
