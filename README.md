@@ -140,7 +140,7 @@ The textual content (documentation, explanatory texts, etc.) and graphic content
 
 ### Evolution of the Terms & Conditions
 
-These general Terms & Conditions (T&Cs) from their first version in August 2024, must be validated when creating a user account.
+These general Terms & Conditions (T&Cs) from their first version in September 2024, must be validated when creating a user account.
 
 These T&Cs may be amended at any time, without notice, depending on modifications made to TechnoPortal, changes in legislation or for any other reason deemed necessary by the governance of the TechnoPortal repository.
 
