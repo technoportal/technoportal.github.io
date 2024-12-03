@@ -1,9 +1,9 @@
-name: Build and Deploy GitBook to GitHub Pages
+name: Build and Deploy HonKit to GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - main  # Replace with your default branch if different
 
 jobs:
   build:
@@ -16,16 +16,16 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '14'
+        node-version: '16'  # You can use Node.js 14 or higher
 
-    - name: Install GitBook CLI
-      run: npm install -g gitbook-cli
+    - name: Install HonKit
+      run: npm install -g honkit
 
-    - name: Install GitBook Plugins
-      run: gitbook install
+    - name: Install HonKit Plugins
+      run: honkit install
 
-    - name: Build GitBook
-      run: gitbook build
+    - name: Build HonKit
+      run: honkit build
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
